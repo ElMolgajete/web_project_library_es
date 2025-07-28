@@ -133,6 +133,7 @@
   box-sizing: border-box;
   width: 360px;
   height: 420px;
+  overflow: auto;
 }
 
 .card__content {
